@@ -1,0 +1,4 @@
+movie_id,title,alternate_title,release_date,run_time,allmovie_rating,user_rating_id,countries_id
+movie_001,"Star Wars","Star Wars: Episode IV - A New Hope",19770525,121,5,user_rating_001,001
+movie_002,"The Empire Strikes Back","Star Wars: Episode V - The Empire Strikes Back",19800525,124,5,user_rating_002,001
+movie_003,"Return of the Jedi","Star Wars: Episode VI - Return of the Jedi",19830525,135,5,user_rating_003,001

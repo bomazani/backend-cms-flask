@@ -1,0 +1,4 @@
+award_id,award_organizations_id,award_categories_id,movie_id,person_id,year,won
+award_001,award_organization_001,award_category_001,movie_1,person_007,1977,1
+award_002,award_organization_001,award_category_003,movie_1,person_001,1977,0
+award_003,award_organization_002,award_category_003,movie_1,person_001,1977,0
